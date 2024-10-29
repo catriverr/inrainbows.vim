@@ -1,0 +1,10 @@
+{
+  "name": "inrainbows",
+  "version": "1.1.0",
+  "repository": "git@github.com:catriverr/inrainbows.vim.git",
+  "author": "Nehir <nehir@mybutton.org>",
+  "license": "MIT",
+  "vim": {
+    "opt": true
+  }
+}
